@@ -1,0 +1,3 @@
+C:/UBB3/PTPP/hamiltonian-cycle/sequential/cmake-build-debug/CMakeFiles/sequential.dir
+C:/UBB3/PTPP/hamiltonian-cycle/sequential/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/UBB3/PTPP/hamiltonian-cycle/sequential/cmake-build-debug/CMakeFiles/rebuild_cache.dir
